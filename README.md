@@ -19,7 +19,7 @@
 
 ## 1. Konversi dataset dari .flac menjadi .wav
 Siapkan folder baru untuk menyimpan hasil konversi, seperti gambar berikut.
-
+![folder](gambar/langkah 1.PNG)
 buka folder `data_model`, lalu buka file `pa_dev_dataset`
 
 Pada bagian `input_file` dan `output_file`, ubah sesuai tempat penyimpanan masing-masing. `input_file` sebagai penyimpanan dataset `pa_dev_dataset` dan `output_file` sebagai tempat hasil konversi.
