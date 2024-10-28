@@ -33,5 +33,31 @@ Pada bagian `input_file` dan `output_file`, ubah sesuai tempat penyimpanan masin
 begitu terus hingga file la atau (Logis Attack).
 
 ## 2. Mengubah dataset yang sudah dikonversi menjadi bentuk gambar dalam bentuk diagram spectral
+__________________________________________________________________________
+![langkah2.1](gambar/langkah2.1.PNG)
 
-bersambung~
+Buat folder seperti gambar diatas. Untuk letak folder bebas ditaruh dimana.
+_________________________________________________________________________
+![langkah2.2](gambar/langkah2.2.PNG)
+
+Didalam folder tersebut, buat folder baru seperti gambar diatas
+
+*Penjelasan: 14 folder tersebut merupakan fitur ektraksi librosa, penilitian ini akan membandingkan semua fitur dan akan diliat akurasinya, lalu digunakan pada implementasi sistem.
+
+![langkah2.3](gambar/langkah2.3.PNG)
+![langkah2.4](gambar/langkah2.4.PNG)
+![langkah2.5](gambar/langkah2.5.PNG)
+![langkah2.6](gambar/langkah2.6.PNG)
+![langkah2.7](gambar/langkah2.7.PNG)
+![langkah2.8](gambar/langkah2.8.PNG)
+![langkah2.9](gambar/langkah2.9.PNG)
+![langkah2.10](gambar/langkah2.10.PNG)
+![langkah2.11](gambar/langkah2.11.PNG)
+![langkah2.12](gambar/langkah2.12.PNG)
+![langkah2.13](gambar/langkah2.13.PNG)
+![langkah2.14](gambar/langkah2.14.PNG)
+![langkah2.15](gambar/langkah2.15.PNG)
+![langkah2.16](gambar/langkah2.16.PNG)
+
+Setiap folder fitur ektraksi terdapat enam folder tambahan guna menyimpan dataset. Seperti gambar diatas.
+__________________________________________________________________________
