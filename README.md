@@ -46,6 +46,7 @@ Didalam folder tersebut, buat folder baru seperti gambar diatas
 
 ![langkah2.3](gambar/langkah2.3.PNG)
 ![langkah2.4](gambar/langkah2.4.PNG)
+
 ![langkah2.5](gambar/langkah2.5.PNG)
 ![langkah2.6](gambar/langkah2.6.PNG)
 ![langkah2.7](gambar/langkah2.7.PNG)
